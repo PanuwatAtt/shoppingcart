@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\shoppingsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\shoppingsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\shoppingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\shoppingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\migrations\\20260313041254_addstockdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\migrations\\20260313041254_addstockdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|c:\\users\\panuwat\\desktop\\shoppingsystem\\shoppingsystem\\shoppingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076607E8-4D21-450E-9C43-3F19C0A796D8}|ShoppingSystem\\ShoppingSystem.csproj|solutionrelative:shoppingsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingSystem.http",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem.http",
+              "RelativeDocumentMoniker": "ShoppingSystem\\ShoppingSystem.http",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem.http",
+              "RelativeToolTip": "ShoppingSystem\\ShoppingSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-13T07:19:28.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260313041254_addStockDB.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Migrations\\20260313041254_addStockDB.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Migrations\\20260313041254_addStockDB.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Migrations\\20260313041254_addStockDB.cs",
+              "RelativeToolTip": "ShoppingSystem\\Migrations\\20260313041254_addStockDB.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:12:54.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Program.cs*",
+              "RelativeToolTip": "ShoppingSystem\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:58:40.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\appsettings.json",
+              "RelativeToolTip": "ShoppingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T03:52:19.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShoppingSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:46:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem.csproj",
+              "RelativeDocumentMoniker": "ShoppingSystem\\ShoppingSystem.csproj",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem.csproj",
+              "RelativeToolTip": "ShoppingSystem\\ShoppingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T03:45:53.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Models\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Models\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Models\\OrderRequest.cs",
+              "RelativeToolTip": "ShoppingSystem\\Models\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:42:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Models\\Stock.cs",
+              "RelativeToolTip": "ShoppingSystem\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:44:39.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T03:43:37.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShoppingSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:18:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystem\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Panuwat\\Desktop\\ShoppingSystem\\ShoppingSystem\\ShoppingSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ShoppingSystem\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:45:23.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
